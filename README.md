@@ -21,9 +21,10 @@ A modern, interactive dashboard for uploading and visualizing running data from 
 - **💾 Client-Side Processing**: All data processing happens in-browser (no server required)
 - **🎨 Modern UI**: Responsive design with Tailwind CSS and shadcn/ui components
 
-## 🖼️ Screenshots
+## 🖼️ Live Demo
 
-*(Note: Add screenshots of your dashboard here when deploying)*
+https://csv-runner-dashbaord.vercel.app/
+
 
 ## 🛠️ Technology Stack
 
