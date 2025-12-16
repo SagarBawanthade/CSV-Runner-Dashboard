@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import { RunnerData, PersonStats, OverallStats } from '@/types/runner';
+import { RunnerData, PersonStats, OverallStats } from '@/src/types/runner';
 
 export function calculateOverallStats(data: RunnerData[]): OverallStats {
   if (data.length === 0) {
